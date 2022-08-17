@@ -9,8 +9,9 @@ git remote add origin https://github.com/dkyadavweb/sezcode.git
 git push -u origin main
 </pre>
 
-#…or push an existing repository from the command line
-
+# …or push an existing repository from the command line
+<pre>
 git remote add origin https://github.com/dkyadavweb/sezcode.git
 git branch -M main
 git push -u origin main
+</pre>
